@@ -1,0 +1,12 @@
+dist/
+node_modules/
+.idea/
+.vscode/
+.vs/
+logs/
+*.log
+*.bak
+*.tgz
+.npm
+.yarn
+.cache

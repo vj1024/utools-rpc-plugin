@@ -1,0 +1,20 @@
+{
+    "name": "utools-rpc-plugin",
+    "pluginName": "utools-rpc-plugin",
+    "description": "使用任意开发语言，通过RPC实现、管理你的utools插件. Use any development language to implement and manage your utools plug-ins through RPC.",
+    "version": "v1.0.0",
+    "preload": "dist/preload.js",
+    "author": "vj1024",
+    "homepage": "https://github.com/vj1024/utools-rpc-plugin",
+    "logo": "icon.png",
+    "features": [
+        {
+            "code": "rpc",
+            "explain": "Remote Progress Call",
+            "cmds": [
+                "rpc"
+            ],
+            "icon": "icon.png"
+        }
+    ]
+}
